@@ -1,0 +1,181 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #EEF3FA;
+}
+.form{
+    display: block;
+}
+.form .chat{
+    padding: 50px 0 100px 0;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 3px #FFFFFF;
+}
+.form .chats{
+    padding: 250px 0;
+    font-size: 20px;
+    text-align: center;
+}
+.chat .mb13{
+    font-size: 20px;
+}
+.img{
+    background-image: url(img/background-image.png);
+    height: 400px;
+    background-size: cover;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.mb14{
+    background-color: #333333;
+    color: white;
+    padding: 13px 25px;
+}
+.contents{
+    text-align: center;
+    background-color: #333333;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.flex{
+    background-color: #EAEAEA;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px 0;
+}
+.flex p{
+    text-align: center;
+}
+.flex .bold{
+    font-size: 18px;
+}
+.display{
+    display: flex;
+}
+.display .float{
+    width: 400px;
+}
+.display .floot{
+    width: 400px;
+}
+.foot{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #333333;
+    padding: 25px 25px;
+}
+.border-1 img{
+    width: 200px;
+}
+.border-1{
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color: white;
+}
+.border-1 .mb23{
+    text-align: center;
+    width: 200px;
+}
+.border-1 .mb26{
+    color: black;
+    text-align: center;
+    width: 200px;
+}
+
+
+
+.border-2 img{
+    width: 200px;
+}
+.border-2{
+    margin-right: 20px;
+    background-color: white;
+}
+.border-2 .mb23{
+    text-align: center;
+    width: 200px;
+}
+.border-2 .mb26{
+    color: black;
+    text-align: center;
+    width: 200px;
+}
+
+
+
+
+.border-3 img{
+    width: 200px;
+}
+.border-3{
+    background-color: white;
+}
+.border-3 .mb23{
+    text-align: center;
+    width: 200px;
+}
+.border-3 .mb26{
+    color: black;
+    text-align: center;
+    width: 200px;
+}
+.digital{
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 20px 0;
+}
+.digital .mb39{
+    text-align: center;
+    font-size: 18px;
+}
+.digital .mb40{
+    text-align: center;
+}
+
+.some{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.mb50{
+    color: white;
+    width: 300px;
+    text-align: center;
+    background-color: #2690D4;
+    padding: 5px 70px;
+}
+.mb51{
+    color: white;
+    text-align: center;
+    background-color: #333333;
+    width: 300px;
+    padding: 10px 70px;
+}
+.mb51:hover{
+    transition: 0.3s;
+    background-color: #2690D4;
+}
+.mb50 .mb61{
+    font-size: 20px;
+}
+.mb51 .mb60{
+    font-size: 20px;
+}
+.footer{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: black;
+}
+.footer p{
+    color: white;
+    text-align: center;
+    width: 450px;
+}
+.footer span{
+    color: #2690D4;
+}
